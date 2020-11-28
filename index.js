@@ -53,6 +53,7 @@ function authClientId(req, res, next) {
 }
 
 function showRefreshTokensAndClients() {
+  console.log('');
   console.log('Refresh tokens', refreshTokens);
   console.log('Clients', clients);
 }
