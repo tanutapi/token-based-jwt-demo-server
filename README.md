@@ -10,6 +10,11 @@ A simple Express.js server + React app that demonstrate the using of JWT.
 6. Use your browser and browse to localhost:3000
 7. You can monitor the server-side's refresh token and client table in the console.
 
+# Accounts:
+- admin, password
+- user01, password01
+- user02, password02
+
 If you are interested in the React part of this demo, please see https://github.com/tanutapi/token-based-react-app.
 
 By @tanutapi for "EGCO676 Network Security and Risk Assessment"
